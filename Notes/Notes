@@ -1,0 +1,7 @@
+ <div class="book-a-table">
+                  <div class="anim-layer"></div>
+                  <a href="#">Book a table</a>
+                </div>
+<div class="col-md-6 banner-img" data-aos="fade-left" data-aos-delay="3000">
+              <img class="img img-fluid mt-5 mt-lg-0" src="./assets/images/banner-img.png" alt="">
+            </div>
